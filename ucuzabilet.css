@@ -1,0 +1,260 @@
+.header-div {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  max-height: 40px;
+}
+.imagelogo {
+  width: 30%;
+  height: 100%;
+}
+.ucuzabilet-logo {
+  width: 50%;
+  align-items: center;
+  display: flex;
+  justify-content: flex-start;
+}
+.otellogo {
+  margin-left: 15px;
+  height: 20px;
+  width: 20px;
+}
+.ucaklogo {
+  height: 20px;
+  margin-left: 15px;
+  width: 20px;
+  margin-right: 5px;
+}
+.header-logos {
+  margin-left: 5px;
+}
+.kullanici-islem {
+  width: 50%;
+  justify-content: flex-end;
+  display: flex;
+  align-items: center;
+}
+.kisilogo {
+  height: 20px;
+  margin-left: 15px;
+  width: 20px;
+}
+.bayraklogo {
+  height: 20px;
+  margin-left: 15px;
+  width: 20px;
+}
+.buyukresim-container {
+  display: flex;
+
+  width: 50%;
+  padding: 0;
+  padding-right: 5px;
+}
+
+.buyukresim {
+  width: 100%;
+  justify-content: flex-start;
+}
+.otelresim {
+  display: flex;
+  max-height: 350px;
+}
+.otelkucukresim {
+  display: flex;
+  height: 50%;
+}
+.resimgrup-container {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  width: 50%;
+}
+.kucukresim1 {
+  padding-top: 5px;
+  padding-right: 3px;
+  width: 50%;
+  height: 100%;
+}
+.kucukresim2 {
+  padding-top: 5px;
+  padding-left: 3px;
+  width: 50%;
+  height: 100%;
+}
+.buyukresim2 {
+  width: 100%;
+  height: 100%;
+}
+.buyukresim2-container {
+  height: 50%;
+}
+.odatitle {
+  display: flex;
+  justify-content: space-around;
+}
+hr {
+  padding: 0;
+  margin: 0;
+}
+.rezbilgi {
+  padding-top: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+.tariharabilgi {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.tarih {
+  padding-right: 20px;
+  display: flex;
+  padding-left: 10px;
+}
+.kisibilgi {
+  display: flex;
+  align-items: center;
+  padding-right: 100px;
+}
+.gunbilgi {
+  padding: 2px;
+  margin-right: 20px;
+  background-color: rgb(223, 176, 124);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+p {
+  padding: 0;
+  margin: 0;
+}
+.alaturka-name {
+  display: flex;
+  align-content: center;
+}
+.kgantalya {
+  display: flex;
+}
+
+.andesc {
+  margin-top: 19px;
+  margin-left: 10px;
+}
+.alaturkapansiyon {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+.paylasbegen {
+  display: flex;
+}
+.ara-buton {
+  border: 0.5px solid rgb(180, 111, 47);
+  background-color: rgb(233, 197, 35);
+}
+.uyaritagler {
+  display: flex;
+
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.uyaritagler2 {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.cocuklogo {
+  height: 20px;
+
+  width: 20px;
+}
+.cocuklogo2 {
+  height: 20px;
+
+  width: 20px;
+}
+.logodivs {
+  display: flex;
+  align-items: center;
+}
+.otelaciklama {
+  text-align: start;
+}
+.otelbilgi {
+  margin-top: 30px;
+  width: 100%;
+}
+.sehir {
+  margin-left: 20px;
+  text-align: start;
+}
+.gtsd {
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgb(223, 176, 124);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.maps{
+margin-top: 10px;
+width: 100%;
+height: 100%;
+}
+.otelsoltaraf{
+padding-right: 100px;
+}
+.odasecenekleri{
+  margin-top: 30px;
+  width: 100%;
+}
+.odasecenek-title{
+  text-align: start;
+ font-weight: 700 ; 
+ margin-top: 20px;
+}
+.card-img-top{
+  width: 150px;
+  height: 120px;
+}
+.card{
+  margin-top: 10px;
+  display: flex;
+  height: 120px;
+  width: 100%;
+}
+.kartinfo{
+  display: flex;
+  justify-content: space-between;
+}
+.card-body{
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+  text-align: start;
+}
+.odasecbuton{
+  background-color: rgb(255, 255, 255);
+border:2px solid rgb(233, 197, 35);
+  opacity: 0.6;
+  font-weight: 600;
+  color: chocolate;
+}
+.tesisolanakları{
+  padding-bottom: 10px;
+  padding-top: 20px;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: flex-start;
+
+}
